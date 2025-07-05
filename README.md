@@ -3,7 +3,8 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pig-game-pg.streamlit.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-blue)](https://www.linkedin.com/posts/wisdom-douglas_python-streamlit-webapp-activity-7346530218737549313-8tlU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHEifEBXd66QbKca3n-0IoGRbXlbVjZPYo)
 
-An interactive implementation of the classic Pig Dice Game built with Python and Streamlit. Roll the dice, accumulate points, and race to 100 against a strategic computer opponent!
+Experience the timeless fun of Pig Dice in an engaging, interactive format using Python and Streamlit. Roll the dice, stack up points, and challenge a computer rival in a thrilling race to 100!
+
 
 ## Features ✨
 - 🎮 Play against computer AI with strategic decision-making
