@@ -37,16 +37,15 @@ Experience the timeless fun of Pig Dice in an engaging, interactive format using
 ## Installation ⚙
 1. Clone repository:
 bash
-git clone https://github.com/youngdrizzy1/Pig-Game
-cd Pig-Game
+git clone https://github.com/wizglobal-tech/PIG-GAME
+cd PIG-GAME
 
-
-2. Install dependencies:
+3. Install dependencies:
 bash
 pip install streamlit
 
 
-3. Run the application:
+4. Run the application:
 bash
 streamlit run app.py
 
@@ -56,4 +55,4 @@ Try the live version: [Pig-Game-App](https://pig-game-pg.streamlit.app/)
 
 ## Connect with Me 👋
 [LinkedIn](https://www.linkedin.com/in/wisdom-douglas/) | 
-[GitHub](https://github.com/youngdrizzy1)
+[GitHub](https://github.com/wizglobal-tech)
