@@ -30,9 +30,9 @@ Experience the timeless fun of Pig Dice in an engaging, interactive format using
 - *Frontend*: Streamlit
 - *Backend*: Python 3
 - *Key Modules*: 
-  - streamlit for UI
-  - random for dice rolls
-  - time for turn simulation
+- streamlit for UI
+- random for dice rolls
+- time for turn simulation
 
 ## Installation ⚙
 1. Clone repository:
@@ -52,8 +52,8 @@ streamlit run app.py
 
 
 ## Live Demo 🌐
-Try the live version: [Pig-Game-App](https://pig-game.streamlit.app/)
+Try the live version: [Pig-Game-App](https://pig-game-pg.streamlit.app/)
 
 ## Connect with Me 👋
-[LinkedIn](https://www.linkedin.com/in/eromosele-itoya/) | 
+[LinkedIn](https://www.linkedin.com/in/wisdom-douglas/) | 
 [GitHub](https://github.com/youngdrizzy1)
